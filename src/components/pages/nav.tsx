@@ -7,7 +7,7 @@ export default function Nav() {
   return (
     <div className='w-full h-[75px] flex'>
         <div className='w-[30%] h-full flex justify-center items-center'>
-            <p className='text-2xl font-bold text-primary'>Bharani's</p>
+            <p className='text-2xl font-bold text-primary'>Bharani&apos;s</p>
         </div>
         <div className='w-[70%] h-full flex items-center'>
             <ul className='flex w-[60%] h-full justify-around text-sm font-bold items-center text-neutral-500'>

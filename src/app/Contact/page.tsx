@@ -10,8 +10,8 @@ export default function ContactPage() {
     <div className='w-full h-[600px] flex justify-center items-center'>
         <div className='w-[80%] h-[90%] bg-secondary rounded-xl flex overflow-hidden'>
             <div className='w-[50%] h-[100%] p-20'>
-                <p className='font-bold text-primary text-xl'>Let’s Connect</p>
-                <p className='font-bold text-neutral-500 mt-8'>I am currently  looking for new  Opportunities , my  inbox is always open .  Whether you have a question or just want to say hi , I’ll try my best to get back to you !</p>
+                <p className='font-bold text-primary text-xl'>Let&apos;s Connect</p>
+                <p className='font-bold text-neutral-500 mt-8'>I am currently  looking for new  Opportunities , my  inbox is always open .  Whether you have a question or just want to say hi , I&apos;ll try my best to get back to you !</p>
                 <div className='w-[80%] h-[100px] flex justify-between items-center'>
                     <Link href={'https://www.linkedin.com/in/rayudu-bharani-satya-siva-durgaprasad-35262527a/'}><Linkedin/></Link>
                     <Link href={'https://x.com/?lang=en'}><Twitter/></Link>
