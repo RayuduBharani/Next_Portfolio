@@ -1,5 +1,4 @@
 import Project from '@/components/pages/project'
-import { ExternalLink } from 'lucide-react'
 import React from 'react'
 
 export default function ProjectsPage() {
