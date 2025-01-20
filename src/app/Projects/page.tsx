@@ -7,6 +7,20 @@ export default function ProjectsPage() {
             <h1 className='text-center font-bold text-primary text-xl mt-5 mr-5'>Projects</h1>
             <div className='w-[80%] h-[90%] mt-1 overflow-y-auto hide-scrollbar'>
                 <Project
+                    image="https://c8.alamy.com/comp/2E61440/course-management-system-word-concepts-banner-2E61440.jpg"
+                    projectContent='Student can enroll in a course, view course details, and manage their courses. Admin can add, update, and delete courses.'
+                    title='Course Management System'
+                    heading='React js website'
+                    link='https://github.com/RayuduBharani/Course_management_system'
+                />
+                <Project
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUb7_QAE34ufhjO-rVl5Z1f0xma8hY1C9V1A&s"
+                    projectContent=' AComprehensivePlatformforDSAMasteryandCareerAdvancement(InspiredbyCodeDale)'
+                    title='PrepFlow Website ( Ongoing )'
+                    heading='Next js website'
+                    link='https://github.com/cygnuxxs/prepflow'
+                />
+                <Project
                     image="https://img.freepik.com/premium-vector/word-concept-color-geometric-shapes-blog_205544-12899.jpg"
                     projectContent='A Personal Blog Site Where You Can Post A Blog And Comment On Other BlogPosts. This Site Has User Authentication And Database For Realtime Updates.'
                     title='Blogify Website'
