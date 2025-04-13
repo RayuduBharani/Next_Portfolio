@@ -41,7 +41,7 @@ export default function Nav() {
                   <Link href={'/Projects'}><li className='cursor-pointer'>Projects</li></Link>
                   <Link href={'Skills'}><li className='cursor-pointer'>Skills</li></Link>
                   <Link href={'/Contact'}><li className='cursor-pointer'>Contact Me</li></Link>
-                  <Link href={'https://drive.google.com/file/d/1N4W8RDSDBysHDspvXss4Pu2hJ7-Ge_Ge/view?usp=sharing'}><Button className='ml-28 mr-5 max-sm:ml-7'>Resume</Button></Link>
+                  <Link href={'https://drive.google.com/file/d/1sQcaXc679hdavjOOcbigCcU6G6dDDAYw/view?usp=sharing'}><Button className='ml-28 mr-5 max-sm:ml-7'>Resume</Button></Link>
                 </ul>
               </SheetDescription>
             </SheetHeader>
